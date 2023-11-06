@@ -4,11 +4,12 @@
 
 Welcome to my GitHub profile! I'm a passionate developer from Indonesia. I love working on a variety of projects, from web applications to mobile apps. Here are some things you might want to know about me:
 
-- 🔭 I’m currently working on PT. FitAja Digital Nusantara
-- 🌱 I’m currently learning TypeScript, ReactJS and Flutter
-- 💬 Ask me about React Native
-- 😄 Pronouns: Pur
-- ⚡ Fun fact: I love nature
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Studying Informatics Engineering at STMIK Pamitran Karawang.
+- 🔭 I’m currently working on PT. FitAja Digital Nusantara.
+- 🌱 I’m currently learning TypeScript, ReactJS and Flutter.
 
 ## 🚀 Skills and Tools
 
@@ -30,9 +31,8 @@ Here are some of the technologies and tools I work with:
 Connect with me on:
 
 - [GitHub](https://github.com/ipunkz11)
-- [LinkedIn](https://www.linkedin.com/in/purwanto11)
-- [Instagram](https://instagram.com/ipunkz11)
-- [Twitter](https://twitter.com/ipunkz11)
+- <a href="https://www.linkedin.com/in/purwanto11/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Purwanto-blue?style=flat-square&logo=linkedin"></a>
+- <a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-purwantorpl@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 Feel free to reach out if you have any questions or just want to chat. I'm always open to interesting discussions and collaboration opportunities!
 
