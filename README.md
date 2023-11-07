@@ -2,7 +2,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ipunkz11?label=Follow&style=social)](https://github.com/ipunkz11)
 
-Welcome to my GitHub profile! I'm a passionate developer from Indonesia. I love working on a variety of projects, from web applications to mobile apps. Here are some things you might want to know about me:
+Welcome to my GitHub profile! I'm a passionate developer from Indonesia. I love working on a variety of projects.Here are some things you might want to know about me:
+
+One area where I have particularly excelled is in using React Native. Since 2022, I have been working extensively with React Native to develop dynamic, responsive user interfaces that deliver a seamless user experience. I am highly skilled in using React Native to build complex applications, and I enjoy keeping up to date with the latest trends and updates in the framework.
+
+In addition to my technical skills, I am a strong communicator and collaborator, with a proven track record of working effectively in cross-functional teams. I am always eager to learn from others and share my knowledge and expertise to help create innovative solutions that exceed expectations.
+
+Overall, I am a dedicated, detail-oriented software engineer with a passion for using technology to create meaningful, impactful solutions. I am excited to continue developing my skills and contributing to the success of innovative projects in the field of software engineering.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -30,7 +36,6 @@ Here are some of the technologies and tools I work with:
 
 Connect with me on:
 
-- [GitHub](https://github.com/ipunkz11)
 - <a href="https://www.linkedin.com/in/purwanto11/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Purwanto-blue?style=flat-square&logo=linkedin"></a>
 - <a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-purwantorpl@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
