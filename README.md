@@ -1,6 +1,6 @@
 # Hi there, I'm Purwanto 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/ipunkz11?label=Follow&style=social)](https://github.com/ipunkz11)
+[![GitHub followers](https://img.shields.io/github/followers/pur-wanto?label=Follow&style=social)](https://github.com/pur-wanto)
 
 Welcome to my GitHub profile! I'm a passionate developer from Indonesia. I love working on a variety of projects.Here are some things you might want to know about me:
 
@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ipunkz11&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pur-wanto&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect
 
