@@ -28,10 +28,6 @@ Here are some of the technologies and tools I work with:
 ![Git](https://img.shields.io/badge/-Git-323330?style=flat-square&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-323330?style=flat-square&logo=visual-studio-code)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pur-wanto&show_icons=true&theme=dark)
-
 ## 📫 Let's Connect
 
 <!-- Connect with me on:
@@ -39,7 +35,6 @@ Here are some of the technologies and tools I work with:
 - <a href="https://www.linkedin.com/in/purwanto11/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Purwanto-blue?style=flat-square&logo=linkedin"></a>
 - <a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-purwantorpl@gmail.com-blue?style=flat-square&logo=gmail"></a> -->
 
-<h2>Connect with me  in<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"></h2>
 <a href="https://www.linkedin.com/in/purwanto11"><img src="https://img.shields.io/badge/purwanto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/pur-wanto" target="blank"><img src="https://img.shields.io/badge/purwanto-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/purwantorpl@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
