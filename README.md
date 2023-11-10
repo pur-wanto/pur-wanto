@@ -1,4 +1,4 @@
-# Hi there, I'm Purwanto 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=A9FEF7&left=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Pur+and+Welcome+to+my+Profile!" alt="Hey, I'm Pur and Welcome to my Profile! animated typed out" width="90%" align="middle"/> 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/pur-wanto?label=Follow&style=social)](https://github.com/pur-wanto)
 
