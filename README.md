@@ -30,20 +30,17 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Let's Connect
 
-<!-- Connect with me on:
-
-- <a href="https://www.linkedin.com/in/purwanto11/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Purwanto-blue?style=flat-square&logo=linkedin"></a>
-- <a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-purwantorpl@gmail.com-blue?style=flat-square&logo=gmail"></a> -->
-
 <a href="https://www.linkedin.com/in/purwanto11"><img src="https://img.shields.io/badge/purwanto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/pur-wanto" target="blank"><img src="https://img.shields.io/badge/purwanto-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/purwantorpl@gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail"></a>
 
 <h2>Here's my stats in Github  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pur-wanto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&border_color=61dafb" alt="">
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pur-wanto&langs_count=20&theme=react&border_color=61dafb&hide=hack&layout=compact" />
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pur-wanto&custom_title=Pur%20GitHub%20Activity%20Graph&theme=react" alt="Pur Github Activity Graph" width="100%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pur-wanto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&border_color=61dafb" alt="">
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pur-wanto&langs_count=20&theme=react&border_color=61dafb&hide=hack&layout=compact" />
 </div>
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pur-wanto&custom_title=Pur%20GitHub%20Activity%20Graph&theme=react" alt="Pur Github Activity Graph" width="100%">
+</div> -->
 
 Feel free to reach out if you have any questions or just want to chat. I'm always open to interesting discussions and collaboration opportunities!
 
