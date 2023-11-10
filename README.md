@@ -40,7 +40,3 @@ Here are some of the technologies and tools I work with:
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pur-wanto&custom_title=Pur%20GitHub%20Activity%20Graph&theme=react" alt="Pur Github Activity Graph" width="100%">
 </div> -->
-
-Feel free to reach out if you have any questions or just want to chat. I'm always open to interesting discussions and collaboration opportunities!
-
-Happy coding! 👨‍💻
