@@ -8,7 +8,7 @@ In addition to my technical skills, I am a strong communicator and collaborator,
 
 Overall, I am a dedicated, detail-oriented software engineer with a passion for using technology to create meaningful, impactful solutions. I am excited to continue developing my skills and contributing to the success of innovative projects in the field of software engineering.
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> About Me </h3>
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Studying Informatics Engineering at STMIK Pamitran Karawang.
