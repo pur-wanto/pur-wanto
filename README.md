@@ -36,7 +36,7 @@ Here are some of the technologies and tools I work with:
 - <a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-purwantorpl@gmail.com-blue?style=flat-square&logo=gmail"></a> -->
 
 <a href="https://www.linkedin.com/in/purwanto11"><img src="https://img.shields.io/badge/purwanto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/pur-wanto" target="blank"><img src="https://img.shields.io/badge/purwanto-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/purwantorpl@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/purwantorpl@gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail"></a>
 
 <h2>Here's my stats in Github  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pur-wanto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&border_color=61dafb" alt="">
