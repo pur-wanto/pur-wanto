@@ -29,9 +29,10 @@ Here are some of the technologies and tools I work with:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-323330?style=flat-square&logo=visual-studio-code)
 
 ## 📫 Let's Connect
-
-<a href="https://www.linkedin.com/in/purwanto11"><img src="https://img.shields.io/badge/purwanto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/pur-wanto" target="blank"><img src="https://img.shields.io/badge/purwanto-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/purwantorpl@gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/purwanto11"><img src="https://img.shields.io/badge/purwanto-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>    <a href="https://www.github.com/pur-wanto" target="blank"><img src="https://img.shields.io/badge/purwanto-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:purwantorpl@gmail.com"><img alt="Email" src="https://img.shields.io/badge/purwantorpl@gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail"></a>
+</div>
 
 <h2>Here's my stats in Github  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <div align="center">
